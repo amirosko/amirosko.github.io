@@ -76,7 +76,7 @@ main p { margin: 0 0 18px; }
   width: 44px; height: 44px; border-radius: 8px; display: grid; place-items: center;
   font: italic 400 22px/1 Georgia, serif; color: #fff;
 }
-.g-praxin { background: linear-gradient(135deg, #111, #3b3b44); }
+.g-stealth { background: linear-gradient(135deg, #111, #3b3b44); }
 .g-cof    { background: linear-gradient(135deg, #0b3a64, #c5283d); }
 .g-amzn   { background: linear-gradient(135deg, #1d2a38, #e09a2b); }
 .g-hft    { background: linear-gradient(135deg, #0f3b2e, #2ea36b); }
